@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "WDocs",
   "colors": {
-    "primary": "#121212",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#16A34A",
+    "light": "#16A34A",
+    "dark": "#16A34A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
