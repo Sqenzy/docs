@@ -3,8 +3,8 @@
   "theme": "almond",
   "name": "WDocs",
   "colors": {
-    "primary": "#FF2900",
-    "light": "#ffffff",
+    "primary": "#ffffff",
+    "light": "#FF2900",
     "dark": "#ffffff"
   },
   "favicon": "/favicon.svg",
