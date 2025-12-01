@@ -4,8 +4,8 @@
   "name": "WDocs",
   "colors": {
     "primary": "#ffffff",
-    "light": "#FF2900",
-    "dark": "#ffffff"
+    "light": "#ffffff",
+    "dark": "#FF2900"
   },
   "favicon": "/favicon.svg",
   "navigation": {
