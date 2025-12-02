@@ -3,7 +3,7 @@
   "theme": "almond",
   "name": "WDocs",
   "colors": {
-    "primary": "#121212",
+    "primary": "#FF0000",
     "light": "#ffffff",
     "dark": "#121212"
   },
@@ -90,14 +90,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Status",
+        "href": "https://status.wmes.app"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Support",
+      "href": "https://wmes.app/support"
     }
   },
   "contextual": {
