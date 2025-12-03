@@ -73,7 +73,8 @@
           {
             "group": "Readme",
             "pages": [
-              "legal/termsofservice"
+              "legal/termsofservice",
+              "legal/privacypolicy"
             ]
           }
         ]
