@@ -71,12 +71,6 @@
       "tab": "Website Policy",
         "groups": [
           {
-            "group": "API documentation",
-            "pages": [
-              "legal"
-            ]
-          },
-          {
             "group": "Readme",
             "pages": [
               "legal/termsofservice"
