@@ -19,6 +19,10 @@
               "legal/termsofservice",
               "legal/privacypolicy",
               "legal/about"
+            ],
+            "group": "About",
+            "pages": [
+              "legal/about"
             ]
           }
         ]
