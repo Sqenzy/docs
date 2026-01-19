@@ -50,7 +50,7 @@
     }
   },
   "logo": {
-    "light": "/favicon.png",
+    "light": "/wmeslogolight.png",
     "dark": "/logo/wmeslogo.svg"
   },
   "navbar": {
