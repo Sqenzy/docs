@@ -14,11 +14,9 @@
         "tab": "File Send",
         "groups": [
           {
-            "group": "Readme",
+            "group": "File Send",
             "pages": [
-              "legal/termsofservice",
-              "legal/privacypolicy",
-              "/about"
+              "filesend/filetypes"
             ]
           }
         ]
@@ -27,11 +25,9 @@
         "tab": "Quick Chat",
         "groups": [
           {
-            "group": "Readme",
+            "group": "Quick Chat",
             "pages": [
-              "legal/termsofservice",
-              "legal/privacypolicy",
-              "/about"
+              "legal/termsofservice"
             ]
           }
         ]
