@@ -11,19 +11,6 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Website Policy",
-        "groups": [
-          {
-            "group": "Readme",
-            "pages": [
-              "legal/termsofservice",
-              "legal/privacypolicy",
-              "/about"
-            ]
-          }
-        ]
-      },
-      {
         "tab": "File Send",
         "groups": [
           {
@@ -38,6 +25,19 @@
       },
       {
         "tab": "Quick Chat",
+        "groups": [
+          {
+            "group": "Readme",
+            "pages": [
+              "legal/termsofservice",
+              "legal/privacypolicy",
+              "/about"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Website Policy",
         "groups": [
           {
             "group": "Readme",
