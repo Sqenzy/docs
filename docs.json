@@ -11,7 +11,33 @@
   "navigation": {
     "tabs": [
       {
-      "tab": "Website Policy",
+        "tab": "Website Policy",
+        "groups": [
+          {
+            "group": "Readme",
+            "pages": [
+              "legal/termsofservice",
+              "legal/privacypolicy",
+              "/about"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "File Send",
+        "groups": [
+          {
+            "group": "Readme",
+            "pages": [
+              "legal/termsofservice",
+              "legal/privacypolicy",
+              "/about"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Quick Chat",
         "groups": [
           {
             "group": "Readme",
@@ -25,8 +51,7 @@
       }
     ],
     "global": {
-      "anchors": [
-      ]
+      "anchors": []
     }
   },
   "logo": {
@@ -48,15 +73,14 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "view"
-   ]
+      "copy",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "view"
+    ]
   },
   "footer": {
-    "socials": {
-    }
+    "socials": {}
   }
 }
