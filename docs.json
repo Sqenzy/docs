@@ -16,7 +16,7 @@
           {
             "group": "File Send",
             "pages": [
-              "filesend/filetypes_1"
+              "filesend/file_types"
             ]
           }
         ]
@@ -26,8 +26,7 @@
         "groups": [
           {
             "group": "Quick Chat",
-            "pages": [
-            ]
+            "pages": []
           }
         ]
       },
@@ -44,10 +43,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": []
-    }
+    ]
   },
   "logo": {
     "light": "/wmeslogolight.png",
